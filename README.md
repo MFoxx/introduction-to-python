@@ -28,10 +28,10 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  2. týždeň<br>20. 2. - 26. 2. |          [Prvé programy v Pythone](labs/lab02-first-baby-steps.ipynb)          |         [Funkcie, rekurzia, generátory, lambda výrazy](lectures/Lecture-02.pdf)<br>([kód z prednášky](lectures/codes/lecture02.ipynb))         |             D1 odovzdávka<br>[D2 publikovaná](assignments/homeworks/homework02.md)             |
 |  3. týždeň<br>27. 2. - 5. 3.  |               [Algoritmizácia](labs/lab03-functions-and-algorithmization.ipynb)              |                [Reťazce, zoznamy, n-tice, mapy](lectures/Lecture-03.pdf)<br>([kód z prednášky](lectures/codes/lecture03.ipynb))                |             D2 odovzdávka<br>[D3 publikovaná](assignments/homeworks/homework03.md)             |
 |  4. týždeň<br>6. 3. - 12. 3.  | [Práca so základnými údajovými štruktúrami](labs/lab04-a-look-at-the-table.ipynb) |        Test1<br>[Testovanie, ladenie, výnimky a chyby](lectures/Lecture-04.pdf)<br>([kód z prednášky](lectures/codes/lecture04.ipynb))         |             D3 odovzdávka<br>[D4 publikovaná](assignments/homeworks/homework04.md)             |
-|  5. týždeň<br>13. 3. - 19. 3. |                   [Wordle](labs/lab05-wordle.ipynb)                  | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-05.pdf)<br>([kód z prednášky](lectures/codes/lecture05.ipynb)) |         Z1, D4 odovzdávka<br>Z2, [D5 publikované](assignments/homeworks/homework05.md)         |
-|  6. týždeň<br>20. 3. - 26. 3. |             [Kedy na Jedličku?](labs/lab06-when-to-party.ipynb)             |    Test 2<br>Úvod do objektovo orientovaného programovania   |             D5 odovzdávka<br>D6 publikovaná             |
-|  7. týždeň<br>27. 3. - 2. 4.  |             Wordle pomocou OOP            |                   Princípy OOP a metametódy                  |             D6 odovzdávka<br>D7 publikovaná             |
-|  8. týždeň<br>3. 4. - 9. 4.   |     Modelovanie hry poker pomocou OOP     |                           Veľká Noc                          |                      D7 odovzdávka                      |
+|  5. týždeň<br>13. 3. - 19. 3. |                   [Wordle](labs/lab05-wordle.ipynb)                  | [Zložitosť algoritmov, optimalizácia, dynamické programovanie](lectures/Lecture-05.pdf)<br>([kód z prednášky](lectures/codes/lecture05.ipynb)) |         Z1, D4 odovzdávka<br>[D5 publikovaná](assignments/homeworks/homework05.md)         |
+|  6. týždeň<br>20. 3. - 26. 3. |             [Kedy na Jedličku?](labs/lab06-when-to-party.ipynb)             |    Test 2<br>[Úvod do objektovo orientovaného programovania](lectures/Lecture-06.pdf)<br>([kód z prednášky](lectures/codes/lecture06.ipynb))   |             D5 odovzdávka<br>[Z2](assignments/Zadanie2.pdf), [D6 publikované](assignments/homeworks/homework06.md)             |
+|  7. týždeň<br>27. 3. - 2. 4.  |             [Wordle pomocou OOP](labs/lab07-wordle-in-oop.ipynb)            |                   [Princípy OOP a metametódy](lectures/Lecture-07.pdf)<br>([kód z prednášky](lectures/codes/lecture07.zip))                  |             D6 odovzdávka<br>[D7 publikovaná](assignments/homeworks/homework07.md)             |
+|  8. týždeň<br>3. 4. - 9. 4.   |     [Modelovanie hry poker pomocou OOP](labs/lab08-poker-in-oop.ipynb)     |                           Veľká Noc                          |                      D7 odovzdávka                      |
 |  9. týždeň<br>10. 4. - 16. 4. |                 Veľká Noc                 |                Test 3<br>Jednoduché simulácie                |             Z2 odovzdávka<br>Z3 publikované             |
 | 10. týždeň<br>17. 4. - 23. 4. |           Výpočet hodnoti pi              |                Výpočtové modely a simulácie                  |                      D8 publikovaná                     |
 | 11. týždeň<br>24. 4. - 30. 4. |   Simulácia letu komára, návrh simulácií  |                        Numpy a pandas                        |           D8 odovzdávka<br>D9, D10 publikované          |
@@ -59,8 +59,8 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 3. [použitie lambda výrazov a list comprehension](assignments/homeworks/homework03.md) (deadline 10. 3. 2023)
 4. [ošetrenie chýb](assignments/homeworks/homework04.md) (deadline 17. 3. 2023)
 5. [písanie unit testov](assignments/homeworks/homework05.md) (deadline 24. 3. 2023)
-6. vytvorenie triedy z UML diagramu (deadline 31. 3. 2023)
-7. hierarchia tried a metametódy (deadline 7. 4. 2023)
+6. [vytvorenie triedy z UML diagramu](assignments/homeworks/homework06.md) (deadline 31. 3. 2023)
+7. [hierarchia tried a metametódy](assignments/homeworks/homework07.md) (deadline 7. 4. 2023)
 8. generovanie grafov (deadline 28. 4. 2023)
 9. použitie knižníc numpy a pandas (deadline 5. 5. 2023)
 10. oprava DÚ (deadline 12. 5. 2023)
@@ -73,7 +73,11 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
     * [Znenie zadania](assignments/Zadanie1.pdf) ([anglická verzia](assignments/Assignment1.pdf))
     * [Projekt s testami](assignments/Zadanie1.zip)
 
-2. Modelovanie hry pomocou OOP (deadline 14. 4. 2023)
+2. Čo si pozrieme? (deadline 21. 4. 2023)
+
+    * [Znenie zadania](assignments/Zadanie2.pdf)
+    * [Kostra riešenia](assignments/Zadanie2.zip) (bez testov)
+
 3. Simulácia (deadline 12. 5. 2023)
 
 <!--### Skúška <a name="exam"></a>-->
@@ -86,6 +90,8 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
 * CHUN, W. J.: Core Python Programming. 2nd Edition, Prentice Hall, 2006 ([link](https://www.amazon.com/Core-Python-Programming-Wesley-Chun/dp/0132269937))
 * McKINNEY, W.: Python for Data Analysis: Data Wrangling with Pandas, Numpy, and IPython. 2nd Edition, O’Reilly Media, 2017 ([link](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662))
 * SEVERANCE, C.: Python for Everybody: Exploring Data in Python 3. 1st edition, CreateSpace Independent Publishing Platform, 2016 ([link](https://www.amazon.com/Python-Everybody-Exploring-Data/dp/1530051126))
+* JAWORSKI, M. - ZIADÉ, T.: Expert Python Programming. 4th edition, Packt Publishing Ltd, 2021. ([link](https://www.packtpub.com/product/expert-python-programming-fourth-edition/9781801071109))
+* PHILLIPS, D.: Python 3 object oriented programming. 3rd edition, Packt Publishing Ltd, 2018. ([link](https://www.packtpub.com/product/python-3-object-oriented-programming-third-edition/9781789615852))
 
 Ďalšie zdroje sú dostupné na [web stránke MIT kurzu 6.00](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/index.htm).
 
