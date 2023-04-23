@@ -32,10 +32,10 @@ Cvičenia sú v pondelok o 9:10 (PK6_S02 - PC1), a v utorok o 7:30 (PK6_S02 - PC
 |  6. týždeň<br>20. 3. - 26. 3. |             [Kedy na Jedličku?](labs/lab06-when-to-party.ipynb)             |    Test 2<br>[Úvod do objektovo orientovaného programovania](lectures/Lecture-06.pdf)<br>([kód z prednášky](lectures/codes/lecture06.ipynb))   |             D5 odovzdávka<br>[Z2](assignments/Zadanie2.pdf), [D6 publikované](assignments/homeworks/homework06.md)             |
 |  7. týždeň<br>27. 3. - 2. 4.  |             [Wordle pomocou OOP](labs/lab07-wordle-in-oop.ipynb)            |                   [Princípy OOP a metametódy](lectures/Lecture-07.pdf)<br>([kód z prednášky](lectures/codes/lecture07.zip))                  |             D6 odovzdávka<br>[D7 publikovaná](assignments/homeworks/homework07.md)             |
 |  8. týždeň<br>3. 4. - 9. 4.   |     [Modelovanie hry poker pomocou OOP](labs/lab08-poker-in-oop.ipynb)     |                           Veľká Noc                          |                      D7 odovzdávka                      |
-|  9. týždeň<br>10. 4. - 16. 4. |                 Veľká Noc                 |                Test 3<br>Jednoduché simulácie                |             Z2 odovzdávka<br>Z3 publikované             |
-| 10. týždeň<br>17. 4. - 23. 4. |           Výpočet hodnoti pi              |                Výpočtové modely a simulácie                  |                      D8 publikovaná                     |
-| 11. týždeň<br>24. 4. - 30. 4. |   Simulácia letu komára, návrh simulácií  |                        Numpy a pandas                        |           D8 odovzdávka<br>D9, D10 publikované          |
-| 12. týždeň<br>1. 5. - 7. 5.   |         Vedecké výpočty v Pythone         |                   Vedecké výpočty v Pythone                  |                      D9 odovzdávka                      |
+|  9. týždeň<br>10. 4. - 16. 4. |                 Veľká Noc                 |                     *prednáška odpadáva*                     |                      Z3 publikované                     |
+| 10. týždeň<br>17. 4. - 23. 4. |           [Výpočet hodnoti pi](labs/lab09-estimating-pi.ipynb)              |                Test 3<br>[Jednoduché simulácie](lectures/Lecture-08.pdf)<br>([kód z prednášky](lectures/codes/lecture08.zip))                |              Z2 odovzdávka<br>[D8 publikovaná](assignments/homeworks/homework08.md)            |
+| 11. týždeň<br>24. 4. - 30. 4. |   Simulácia letu komára, návrh simulácií  |                Výpočtové modely a simulácie                  |           D8 odovzdávka<br>D9, D10 publikované          |
+| 12. týždeň<br>1. 5. - 7. 5.   |            Vývoj hier v Pythone           |                   Vedecké výpočty v Pythone                  |                      D9 odovzdávka                      |
 | 13. týždeň<br>8. 5. - 14. 5.  |            odovzdávanie zadaní            |                    Test 4<br>opravné testy                   |             Z3 odovzdávka<br>D10 odovzdávka             |
 
 ## Hodnotenie <a name="grading"></a>
@@ -61,7 +61,7 @@ Skúška má teoretickú a praktickú časť. Teoretická časť sa skladá zo �
 5. [písanie unit testov](assignments/homeworks/homework05.md) (deadline 24. 3. 2023)
 6. [vytvorenie triedy z UML diagramu](assignments/homeworks/homework06.md) (deadline 31. 3. 2023)
 7. [hierarchia tried a metametódy](assignments/homeworks/homework07.md) (deadline 7. 4. 2023)
-8. generovanie grafov (deadline 28. 4. 2023)
+8. [generovanie grafov](assignments/homeworks/homework08.md) (deadline 28. 4. 2023)
 9. použitie knižníc numpy a pandas (deadline 5. 5. 2023)
 10. oprava DÚ (deadline 12. 5. 2023)
 
@@ -77,8 +77,12 @@ Vypracované riešenie - skripty - nahrajte priamo do priečinka na Google Drive
 
     * [Znenie zadania](assignments/Zadanie2.pdf)
     * [Kostra riešenia](assignments/Zadanie2.zip) (bez testov)
+    * [Testy k zadaniu](assignments/Zadanie2_tests.zip)
 
-3. Simulácia (deadline 12. 5. 2023)
+3. Simulácia hry (deadline 12. 5. 2023)
+
+    * [Znenie zadania](assignments/Zadanie3.pdf)
+    * [Kostra riešenia](assignments/Zadanie3.zip) (bez testov)
 
 <!--### Skúška <a name="exam"></a>-->
 
